@@ -91,6 +91,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 This summary organizes the key geographic datasets available on Barranquilla's ArcGIS server into categories.
 
+Server: https://services3.arcgis.com/oGYAc07w6wsvgUYr/arcgis/rest/services?f=html
+
 ## Administrative Boundaries
 
 | Layer Name | Description | URL |
